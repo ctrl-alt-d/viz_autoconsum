@@ -1,6 +1,6 @@
 # viz_autoconsum
 
-Lab Visualització dades [subvencions autoconsum](https://icaen.gencat.cat/ca/energia/ajuts/energies-renovables/ajuts-renovables-2022/)
+Lab Visualització dades [incentius lligats a l'autoconsum i emmagatzematge](https://icaen.gencat.cat/ca/energia/ajuts/energies-renovables/ajuts-renovables-2022/)
 
 ### Instal·lació requeriments
 
